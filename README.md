@@ -7,3 +7,5 @@ Then user is able to determine the level of service which represents the % of ti
 User can then enter how many in the party are splitting the bill
 The app provides a total per person tip amount.
 
+![](images/tip_calculator.png)
+
